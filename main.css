@@ -1,0 +1,47 @@
+/* Uncommon Grounds CSS Oct. 2017 */
+
+body {
+  background-image: url(images/old_paper.jpg);
+  background-attachment: fixed;
+  text-align: center;
+  }
+
+p {
+  width: 75%;
+  max-width: 800px;
+  margin: auto;
+  text-align: left;
+  padding-top: 10px;
+  }
+
+img {
+  margin: 20px 0px 5px 0px;
+  }
+
+#products {
+  list-style-type: circle;
+  width: 25%;
+  margin: auto;
+  padding-top: 10px;
+  }
+
+
+ol {
+  width: 25%;
+  padding: 10px 0px 10px 0px;
+  margin: auto;
+  }
+  
+a:link {
+  color: #3e1c00; 
+  text-decoration: none;
+  }
+
+a:visited {
+  color: white;
+  } 
+
+#contact {
+  margin-top: 10px;
+  text-align: center;
+  }  
